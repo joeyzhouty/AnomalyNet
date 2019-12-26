@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Dec  7 23:02:32 2018
-
 approximate rank pooling
 
 input: X(image sequence for dynamic image): w*h*N 
 output: DI_gray (uint8):w*h
     
-@author:jiang.wen.xiang.hust@gmail.com
 """
 
 import numpy as np
